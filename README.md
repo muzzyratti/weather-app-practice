@@ -1,4 +1,7 @@
-# Template for webdev
-npm config
-webpack config + plugins (load html, css) + rules (load images) + server
-src directory with clean template.html, index.js, styles.css
+# Weather app practice
+A webpage with a weather forecast from [Visual Crossing API] (https://www.visualcrossing.com/weather-api/).\\
+Used in this project:\
+- webpack
+- async/await, try/catch
+- fetch
+- Visual Crossing API
